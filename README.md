@@ -24,4 +24,19 @@ Source:
 [FRED](https://fred.stlouisfed.org/graph/?g=qLC)
 
 [Market Cap to GDP Ratio (the Buffett Indicator)](https://corporatefinanceinstitute.com/resources/knowledge/valuation/market-cap-to-gdp-buffett-indicator/)
+#
+## ECY - Excess CAPE Yield 
+#
+### ECY is calculated by the inverse of Shiller PE, which is the Shiller earnings yield, subtracted by the U.S. 10-year real Treasury bond yield. Higher ECY values indicate higher equity premium over bonds which makes stocks more attractive.
+Source: 
 
+[Equity market valuation in light of low interest rates - Ana Maria Ceh Jonatan Manfredini Ola Melander Stephan Wollert](https://www.riksbank.se/globalassets/media/rapporter/staff-memo/engelska/2021/equity-market-valuation-in-light-of-low-interest-rates.pdf)
+#
+## Tobin's Q 
+#
+### The Q ratio, also known as Tobin's Q, equals the market value of a company divided by its assets' replacement cost. Thus, equilibrium is when market value equals replacement cost. At its most basic level, the Q Ratio expresses the relationship between market valuation and intrinsic value. In other words, it is a means of estimating whether a given business or market is overvalued or undervalued.
+Source: 
+
+[Investopedia](https://www.investopedia.com/terms/q/qratio.asp)
+
+[Tobin's Q – Definition and History for the US Stock Market](https://dqydj.com/tobins-q/)
